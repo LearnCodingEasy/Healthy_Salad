@@ -1,4 +1,4 @@
-# Healthy_Salad
+# Healthy Salad
 👋 Hello! 
 🍲 Design presentation about online food project named “Foodbar”. 
 🎨 Design motivation for an online restaurant project. 
